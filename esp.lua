@@ -1,8 +1,3 @@
--- RIVALS
--- This script is open sources / Pls dont steal it.
--- author: bloodreaper
--- telegram/support: @bloodreaper_plus
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
