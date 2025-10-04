@@ -1,5 +1,5 @@
---  RIVALS
--- This script is open sources * Pls dont steal it for you works.
+-- RIVALS
+-- This script is open sources / Pls dont steal it.
 -- author: bloodreaper
 -- telegram/support: @bloodreaper_plus
 
